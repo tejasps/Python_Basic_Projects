@@ -1,6 +1,6 @@
 """
 
-Secret number (Computer) 1-10
+Secret number (Computer) 1-100
 
 User - guess a number
 
